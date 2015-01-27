@@ -9,5 +9,20 @@ namespace COMP_123_Lesson04
     class GithubClass
     {
     //GitHub Test
+        public static void Githubclass() 
+        {
+            Console.WriteLine("Hello");
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     }
 }
